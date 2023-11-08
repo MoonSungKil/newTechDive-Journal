@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'New Tech Dive'
+theme = 'journal'
+
+paginate = 999
+
+
+[params]
+header_image = "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+bottom_image = "https://images.unsplash.com/photo-1544380904-c686aad2fc40?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+description = """At New Tech Dive, we believe in the power of knowledge to propel us into the future. Our platform brings together a diverse range of technology-focused books and journals, providing a comprehensive resource for anyone passionate about staying informed in the ever-evolving tech landscape.
+Discover thought-provoking insights from industry experts, explore breakthroughs in artificial intelligence, cybersecurity, software development, and more. Whether you're a tech professional seeking to deepen your expertise or an avid learner eager to understand the latest advancements, New Tech Dive is your go-to destination.
+Join us in the exploration of ideas, innovations, and the transformative potential of technology. Dive into the realms of coding, data science, and emerging technologies, and let New Tech Dive be your guide to navigating the exciting and dynamic world of technology literature."""
+footer = "Copyright © 2023 My Website. All rights reserved."
+
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    author = "authors"
+    publisher = "publishers"
